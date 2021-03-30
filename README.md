@@ -1,1 +1,1 @@
-# itStepAcademy
+https://avpankov.github.io/itStepAcademy/
